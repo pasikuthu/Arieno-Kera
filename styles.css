@@ -9,6 +9,8 @@
 	padding: 0;
 	
 	scrollbar-color: black transparent;
+
+	-webkit-tap-highlight-color: transparent;
 }
 
 a {
